@@ -1,0 +1,28 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  align-content: space-around;
+}
+
+.btn{
+  border-radius: 15px;
+  width: 4em;
+  height: 4em;
+  color: white;
+  font-size: larger;
+  outline: none;
+}
+
+#blue{
+  background-color: royalblue;
+}
+
+#red{
+  background-color: red;
+}
+
+#green{
+  background-color: green;
+}
